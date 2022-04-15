@@ -56,7 +56,7 @@ begin
 			default:
 			begin
 				seg_sel <= 6'b11_1111;
-				seg_data <= 8'b11111111;;
+				seg_data <= 8'b11111111;
 			end
 		endcase
 	end
